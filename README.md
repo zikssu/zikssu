@@ -96,3 +96,9 @@ My goal is to continuously move from **AI User → AI Practitioner → GenAI Spe
 *Learning continuously. Building practically. Growing with technology.*
 
 </div>
+
+<p align="center">
+  <a href="./README_ID.md">
+    <img src="https://img.shields.io/badge/Readme-Bahasa_Indonesia-red?style=for-the-badge" alt="Readme Bahasa Indonesia" />
+  </a>
+</p>
