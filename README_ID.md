@@ -96,3 +96,9 @@ Tujuan saya adalah terus berkembang dari **Pengguna AI -> Praktisi AI -> Spesial
 *Terus belajar. Membangun secara praktis. Bertumbuh bersama teknologi.*
 
 </div>
+
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Readme-English-blue?style=for-the-badge" alt="Readme English" />
+  </a>
+</p>
