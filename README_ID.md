@@ -25,25 +25,20 @@ Lokasi     : Rengat, Indragiri Hulu, Riau, Indonesia
 Sekolah    : SMKN 1 RENGAT
 ```
 
-<p align="center">
-  Siswa kelas XI SMK jurusan Teknik Jaringan Komputer dan Telekomunikasi.
-  Saat ini sedang mengeksplorasi dunia Kecerdasan Buatan dengan minat yang kuat pada Generative AI,
-  pengembangan berbantuan AI, dan prompt yang terstruktur. Saya percaya bahwa AI bukan hanya sebuah alat,
-  tetapi teknologi yang dapat membantu mengubah ide menjadi solusi yang praktis.
-</p>
+Saya adalah seorang <strong>Siswa Pelajar</strong> yang saat ini sedang menduduki di bangku kelas XI SMK di jurusan Teknik Jaringan Komputer dan Telekomunikasi. Saat ini sedang **Mengeksplorasi Dunia Kecerdasan Buatan dengan minat yang kuat pada Generative AI**, **Pengembangan berbantuan AI**, dan **Prompting yang ter-Struktur**. Saya **Percaya** bahwa **AI bukan hanya sebuah Alat**, tetapi **Teknologi yang dapat Membantu Mengubah Ide menjadi Solusi yang Praktis**.
 
 ---
 
 ### 🤖 Tentang Saya
 
-- 🎯 **Fokus:** Generative AI, pengembangan berbantuan AI, dan penerapan AI yang praktis.
-- 🧠 **Spesialisasi:** Prompt Engineering dan merancang instruksi terstruktur agar AI menghasilkan output yang jelas, rapi, dan berguna.
-- 🛠️ **Sedang dieksplorasi:** LLM, alur kerja AI, AI-assisted coding, dan berbagai cara untuk mengintegrasikan Generative AI ke dalam proyek.
-- 💡 **Pendekatan:** Mengubah ide menjadi prompt terstruktur, workflow, dan solusi praktis dengan bantuan AI.
-- 🌱 **Pembelajaran:** Terus meningkatkan pemahaman saya tentang Generative AI, pemrograman, dan teknologi.
-- 🔭 **Proyek saat ini:** Membangun proyek pribadi sambil bereksperimen dengan bagaimana Generative AI dapat mempercepat pengembangan dan pemecahan masalah.
-- 🤝 **Kolaborasi:** Terbuka untuk belajar, berbagi ide, dan berkolaborasi dalam proyek yang berkaitan dengan AI dan teknologi.
-- ⚡ **Fakta menarik:** Saat lelah bereksperimen dengan AI atau coding, saya biasanya pergi ke lapangan untuk bermain basket atau santai bermain game di rumah.
+- 🎯 **Fokus:** Generative AI, Pengembangan berbantuan AI, dan Penerapan AI yang Praktis.
+- 🧠 **Spesialisasi:** Prompt Engineering dan Merancang Instruksi ter-Struktur agar AI menghasilkan output yang Jelas, Rapi, dan Berguna.
+- 🛠️ **Sedang di Eksplorasi:** LLM, Alur Kerja AI, AI-Assisted Coding, dan berbagai cara untuk meng-Integrasikan Generative AI ke dalam proyek.
+- 💡 **Pendekatan:** Mengubah Ide menjadi Prompt yang ter-Struktur, Workflow, dan Solusi Praktis dengan Bantuan AI.
+- 🌱 **Pembelajaran:** Terus Meningkatkan Pemahaman saya tentang Generative AI, Pemrograman, dan Teknologi.
+- 🔭 **Proyek saat ini:** Membangun Proyek Pribadi sambil ber-Eksperimen dengan bagaimana Generative AI dapat Mempercepat Pengembangan dan Pemecahan masalah.
+- 🤝 **Kolaborasi:** Terbuka untuk Belajar, Berbagi Ide, dan ber-Kolaborasi dalam proyek yang berkaitan dengan AI dan Teknologi.
+- ⚡ **Fakta menarik:** Saat Lelah ber-Eksperimen dengan AI atau Coding, saya biasanya pergi ke lapangan untuk bermain Basket atau Santai bermain Game di Rumah.
 
 ---
 
@@ -61,20 +56,18 @@ Kecerdasan Buatan
               └── Penerapan AI Praktis
 ```
 
-> **"Jangan hanya menggunakan AI. Pelajari cara menyusunnya, mengarahkannya, dan mengubahnya menjadi sesuatu yang berguna."**
+> **"Jangan hanya menggunakan AI, Pelajari cara Menyusunnya, Mengarahkannya, dan Mengubahnya menjadi Sesuatu yang Berguna."**
 
 ---
 
 ### 🚀 Apa Yang Sedang Saya Bangun
+Saat ini saya sangat Tertarik dalam pembuatan Proyek. Dimana, **GEnerative AI menjadi bagian dari proses Pengembangan**, mulai dari mengubah Ide menjadi Rencana dan Prompt yang ter-Struktur hingga Membantu Coding dan Membangun Solusi yang Praktis.
 
-Saat ini saya tertarik membuat proyek di mana **Generative AI menjadi bagian dari proses pengembangan**, mulai dari mengubah ide menjadi rencana dan prompt yang terstruktur hingga membantu coding dan membangun solusi yang praktis.
-
-Tujuan saya adalah terus berkembang dari **Pengguna AI -> Praktisi AI -> Spesialis GenAI** melalui proyek nyata dan pembelajaran yang konsisten.
+Tujuan saya adalah terus **Berkembang** dari **Pengguna AI -> Praktisi AI -> Spesialis GenAI** melalui proyek Nyata dan Pembelajaran yang Konsisten.
 
 ---
 
-### 📚 Yang Sedang Dipelajari
-
+### 📚 Yang Sedang saya Dipelajari
 - 🤖 Generative AI
 - ✨ Prompt Engineering
 - 🧠 Large Language Models (LLMs)
@@ -104,7 +97,7 @@ Tujuan saya adalah terus berkembang dari **Pengguna AI -> Praktisi AI -> Spesial
 
 ### 🌟 Mari Membangun Sesuatu Dengan AI
 
-*Terus belajar. Membangun secara praktis. Bertumbuh bersama teknologi.*
+*Teruslah Belajar, Membangun secara Praktis, dan Bertumbuh Bersama Teknologi.*
 
 </div>
 
