@@ -1,3 +1,9 @@
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 <div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=zikssu&textBg=false&fontColor=ffffff&fontSize=65&fontAlign=50&fontAlignY=37&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"  />
 </div>
