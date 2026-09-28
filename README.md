@@ -4,15 +4,26 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<div data-importer="border" align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&section=header&reversal=false&text=zikssu&textBg=false&fontColor=c9d1d9&fontSize=60&fontAlign=50&fontAlignY=37&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
-</div>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Raja%20Zikri%20Aditya%20%20Abdullah&fontSize=40&fontColor=c9d1d9&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <h3 align="center">AI Practitioner - GenAI Specialist</h3>
 
+<!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziksz1&label=%20Profile%20Views&logo=github&color=lightgray&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zikssu&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zikssu?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
 </p>
+
+## 👤 About Me
+
+```yaml
+Name       : Raja Zikri Aditya Abdullah
+Nickname   : Zikri / Ziks
+Age        : 16 Years Old
+Location   : Rengat, Indragiri Hulu, Riau, Indonesia
+School     : SMKN 1 RENGAT
+```
 
 <p align="center">
   Student of Grade XI SMK, majoring in Computer Network and Telecommunication Engineering. 
