@@ -114,3 +114,4 @@ Tujuan saya adalah terus berkembang dari **Pengguna AI -> Praktisi AI -> Spesial
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" />
