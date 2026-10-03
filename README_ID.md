@@ -11,8 +11,8 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zikssu&style=flat-square&color=blue" alt="Jumlah Pengunjung Profil"/>
-  <img src="https://img.shields.io/github/followers/zikssu?label=GitHub%20Followers&style=social&color=58A6FF" alt="Pengikut"/>
+  <img src="https://komarev.com/ghpvc/?username=zikssu&style=flat&color=808080" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zikssu?label=GitHub%20Followers&style=social&color=58A6FF" alt="Profile Followers"/>
 </p>
 
 ## 👤 Tentang Saya
