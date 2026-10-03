@@ -25,7 +25,7 @@ Lokasi     : Rengat, Indragiri Hulu, Riau, Indonesia
 Sekolah    : SMKN 1 RENGAT
 ```
 
-Saya adalah seorang <strong>Siswa Pelajar</strong> yang saat ini sedang menduduki di bangku kelas XI SMK di jurusan Teknik Jaringan Komputer dan Telekomunikasi. Saat ini sedang **Mengeksplorasi Dunia Kecerdasan Buatan dengan minat yang kuat pada Generative AI**, **Pengembangan berbantuan AI**, dan **Prompting yang ter-Struktur**. Saya **Percaya** bahwa **AI bukan hanya sebuah Alat**, tetapi **Teknologi yang dapat Membantu Mengubah Ide menjadi Solusi yang Praktis**.
+Saya adalah seorang <strong>Siswa Pelajar</strong> yang saat ini sedang menduduki di bangku kelas XI SMK di jurusan Teknik Jaringan Komputer dan Telekomunikasi. Saat ini sedang **Mengeksplorasi Dunia Kecerdasan Buatan dengan minat yang kuat pada AI Generatif**, **Pengembangan berbantuan AI**, dan **Prompting yang ter-Struktur**. Saya **Percaya** bahwa **AI bukan hanya sebuah Alat**, tetapi **Teknologi yang dapat Membantu Mengubah Ide menjadi Solusi yang Praktis**.
 
 ---
 
@@ -61,7 +61,7 @@ Kecerdasan Buatan
 ---
 
 ### 🚀 Apa Yang Sedang Saya Bangun
-Saat ini saya sangat Tertarik dalam pembuatan Proyek. Dimana, **GEnerative AI menjadi bagian dari proses Pengembangan**, mulai dari mengubah Ide menjadi Rencana dan Prompt yang ter-Struktur hingga Membantu Coding dan Membangun Solusi yang Praktis.
+Saat ini saya sangat Tertarik dalam pembuatan Proyek. Dimana, **AI Generatif menjadi bagian dari proses Pengembangan**, mulai dari mengubah Ide menjadi Rencana dan Prompt yang ter-Struktur hingga Membantu Coding dan Membangun Solusi yang Praktis.
 
 Tujuan saya adalah terus **Berkembang** dari **Pengguna AI -> Praktisi AI -> Spesialis GenAI** melalui proyek Nyata dan Pembelajaran yang Konsisten.
 
@@ -87,7 +87,7 @@ Tujuan saya adalah terus **Berkembang** dari **Pengguna AI -> Praktisi AI -> Spe
 ↓  
 **Pengembangan Berbantuan AI**  
 ↓  
-**Generative AI**  
+**AI Generatif**  
 ↓  
 **Praktisi AI - Spesialis GenAI**
 
