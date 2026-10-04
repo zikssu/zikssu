@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/github/followers/zikssu?label=GitHub%20Followers&style=social&color=58A6FF" alt="Profile Followers"/>
 </p>
 
----
-
 ## 👤 About Me
 
 ```yaml
