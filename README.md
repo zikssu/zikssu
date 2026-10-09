@@ -102,9 +102,4 @@ My Goal is to Grow from **AI User → AI Practitioner → GenAI Specialist** thr
 
 </div>
 
-<p align="center">
-  <a href="./README_ID.md">
-    <img src="https://img.shields.io/badge/Readme-Bahasa_Indonesia-red?style=for-the-badge" alt="Readme Bahasa Indonesia" />
-  </a>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" />
